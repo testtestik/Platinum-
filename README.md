@@ -1,1 +1,1 @@
-# Platinum-
+# NeuralEdge-vip
